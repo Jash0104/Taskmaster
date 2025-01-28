@@ -1,0 +1,8 @@
+
+.item-active {
+    @apply bg-sidebarBg text-white;
+}
+
+.item {
+    @apply text-sidebarText hover:text-white hover:bg-sidebarBg;
+}
