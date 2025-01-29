@@ -27,7 +27,7 @@ export const Sidebar = () => {
   return (
 		<aside className="flex w-72 flex-col z-50 top-0 bottom-0 fixed">
 			<div className="flex pb-4 px-6 bg-[#111827] flex-col overflow-y-auto gap-y-5 grow">
-				<div className="flex items-center shrink-0 h-16 justify-center relative items-center">
+				<div className="flex items-center shrink-0 h-16 justify-center relative">
 					<div className="absolute left-1/2 -translate-x-1/2 top-1/2 -translate-y-1/2 w-44 h-44 bg-[#05B8D6] rounded-full opacity-10 blur-2xl"></div>
 					<div className="flex items-center gap-2 z-10">
 						<BsFillLightningChargeFill className="text-[#05B8D6] w-7 h-7 animate-pulse" />
