@@ -32,7 +32,7 @@ export default async function DashboardPage() {
         <StatCard
           title="Tareas Pendientes"
           value={pendingTodos.length}
-          color="border-orange-500"
+          color="border-orange-500 "
         >
           <IoClipboardOutline size={30} className="text-orange-500" />
         </StatCard>

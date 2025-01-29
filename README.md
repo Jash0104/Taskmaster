@@ -2,7 +2,7 @@
 
 ---
 
-# 📋✨ TodoBuster 3000 🚀
+# 📋✨ TASKMASTER 🚀⚡
 
 ¡Bienvenido a **TodoBuster 3000**! La única aplicación que necesitas para capturar, organizar y (¡esperemos!) completar todas esas tareas que rondan en tu mente. ¿Lista de compras? ✔️ ¿Cosas pendientes del trabajo? ✔️ ¿Recordatorio de que tienes que recordar algo? ✔️
 
@@ -24,8 +24,8 @@ TodoBuster 3000 no es solo otra app de "to-dos"... ¡es LA app! Y claro, ¡viene
 1. **Clona este repositorio**:
 
     ```bash
-    git clone https://github.com/usuario/todobuster3000.git
-    cd todobuster3000
+    git clone https://github.com/Jash0104/Taskmaster.git
+    cd Taskmaster
     ```
 
 2. **Instala las dependencias**:

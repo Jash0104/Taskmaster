@@ -7,7 +7,7 @@ export const TopMenu = () => {
 			<div className="flex flex-1 gap-x-6 self-stretch">
 				<form action="#" className="flex flex-1 relative ">
 					<TbSearch className="text-[#9ca3af] h-full absolute block align-middle cursor-pointer top-0 bottom-0 left-0 w-5" />
-					<input type="text" placeholder="Search..." className="block text-sm text-[#111827] pl-8 pr-0 py-0 border-0 w-full h-full outline-none"/>
+					<input type="text" placeholder="Search..." className="block text-sm text-[#111827] pl-8 pr-0 py-0 border-0 w-full h-full outline-hidden"/>
 				</form>
 				<div className="flex items-center gap-x-6">
 					<button className="text-[#9ca3af] p-[0.625rem] m-[-0.625rem] bg-transparent">

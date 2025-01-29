@@ -1,5 +1,5 @@
 import { Lobster } from "next/font/google";
-import { TbHomeCheck, TbListCheck, TbLogout, TbTag } from "react-icons/tb";
+import { TbHomeCheck, TbListCheck, TbLogout, TbServer2, TbTag } from "react-icons/tb";
 import { SidebarItem } from "./SidebarItem";
 import { BsFillLightningChargeFill } from 'react-icons/bs';
 
@@ -15,6 +15,11 @@ const menuItems = [
 		path: "/dashboard/todos",
 		icon: <TbListCheck className="w-6 h-6"/>,
 		title: "Tasks"
+	},
+	{
+		path: "/dashboard/server-todos",
+		icon: <TbServer2 className="w-6 h-6"/>,
+		title: "Server Tasks"
 	}
 ]
 
